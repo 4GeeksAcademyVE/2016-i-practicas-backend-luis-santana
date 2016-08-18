@@ -13,6 +13,7 @@
 // ejemplo de llamar al metodo index dentro de PostsController
 //Route::get('/posts','PostsController@index');
 
+// autenticacion - master
 Route::auth();
 // Authentication routes...
 /*
